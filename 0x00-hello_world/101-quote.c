@@ -1,8 +1,7 @@
 #include <unistd.h>
 
 /**
- * main - variable char named var_text
- * prints 2, { varible we declaired before }, 59
+ * main - variable char
  * Return: 1
  */
 
