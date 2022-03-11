@@ -16,7 +16,7 @@ int main(void)
 	{
 		if (i != 5 && i != 17)
 		{
-			putchar(alphabet[i]);
+			putchar(alphabets[i]);
 		}
 	}
 	putchar('\n');
