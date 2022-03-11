@@ -9,16 +9,16 @@
 
 int main(void)
 {
-	char alphabets[] = "abcdefghijklmnopqrstuvwxyz";
-	int i;
+	char alphabets = "abcdefghijklmnopqrstuvwxyz";
 
-	while (i <= 26)
+
+	for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
 	{
-		if (i == 5 && i ==17)
+		if (alphabets != 'e' && alphabets != 'q')
 		{
-			putchar(i);
+			putchar(alphabets);
 		}
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
