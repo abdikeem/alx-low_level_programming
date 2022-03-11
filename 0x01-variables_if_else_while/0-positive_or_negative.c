@@ -10,8 +10,10 @@
 int main(void)
 {
 
-	int n = srand(time(0));
-
+	int n;
+	srand(time(0));
+	
+	n = rand();
 	if(n > 0){
 		printf("is positive");
 	}
@@ -19,7 +21,7 @@ int main(void)
 		printf("is zero");
 	}
 	else{
-		prinf("is negative")
+		prinf("is negative");
 	}
 	return (0);
 }
