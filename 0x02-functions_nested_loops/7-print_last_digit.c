@@ -1,22 +1,23 @@
 #include "main.h"
 
 /**
- * int print_last_digit(int)- print last digit of number
- * 
- * @c - i % 10 gives the reminder of any number greater than 10
- * Return: 0
+ * print_last_digit - prints the last digit of a number
+ * @n: the int to extract the last digit from
+ * Return: value of the last digit
  */
-
-int print_last_digit(int i)
+int print_last_digit(int n)
 {
-int last_digit;
-print_last_digit(98);
-print_last_digit(0);
-last_digit = print_last_digit(-1024);
-while (i >= 10)
-/* code */
-last_digit = i % 10;
-_putchar(last_digit + '0');
-_putchar('\n');
-return(0);
+	int a;
+
+	if (n < 0)
+		n = -n;
+
+	a = n % 10;
+
+	if (a < 0)
+		a = -a;
+
+	_putchar(a + '0');
+
+	return (a);
 }
