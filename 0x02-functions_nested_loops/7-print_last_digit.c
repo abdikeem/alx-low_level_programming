@@ -13,8 +13,7 @@ int print_last_digit(int i)
     while (i >= 10)
     {
         /* code */
-        return(i = i % 10);
-    }
-    
+        i = i % 10;
+        return(i);
+    }   
 }
-
