@@ -14,6 +14,7 @@ int print_last_digit(int i)
     {
         /* code */
         i = i % 10;
-        return(i);
+        _putchar(i);
+        return(0);
     }   
 }
