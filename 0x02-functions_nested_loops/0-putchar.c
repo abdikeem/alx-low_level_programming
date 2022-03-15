@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <unistd.h>
+#include <main.h>
 
 /**
 *main- Print string _putchar as the output
@@ -8,6 +10,7 @@
 
 int main(void)
 {
-printf(" _putchar");
+printf("_putchar");
+printf("\n");
 return (0);
 }
