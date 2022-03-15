@@ -14,4 +14,5 @@ for (lower_alphabet = 'a'; lower_alphabet <= 'z'; lower_alphabet++)
 _putchar(lower_alphabet);
 }
 _putchar('\n');
+
 }
