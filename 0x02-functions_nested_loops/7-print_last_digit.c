@@ -14,5 +14,6 @@ int last_digit;
 while (i >= 10)
 /* code */
 last_digit = i % 10;
-return(last_digit);
+_putchar(last_digit);
+return(0);
 }
