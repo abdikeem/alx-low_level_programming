@@ -10,11 +10,9 @@
 
 int print_last_digit(int i)
 {
-    while (i >= 10)
-    {
-        /* code */
-        i = i % 10;
-        _putchar(i);
-        return(0);
-    }   
+while (i >= 10)
+{
+/* code */
+return(i = i % 10);
+}  
 }
