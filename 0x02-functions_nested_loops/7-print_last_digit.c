@@ -8,13 +8,13 @@
  * Return: 0
  */
 
-int print_last_digit(int i)
+int print_last_digit()
 {
-int last_digit;
+int i, last_digit;
 while (i >= 10)
 {
 /* code */
 last_digit = i % 10;
 return(last_digit);
-}  
+}
 }
