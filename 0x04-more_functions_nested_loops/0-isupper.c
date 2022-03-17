@@ -3,8 +3,9 @@
 
 /**
  * int _isupper(int c) - checks the code and prints upper case letters.
+ *@c: if statement.
  *
- * Return: Always 0.
+ * Return: 1 when is uppercase and 0 when is lowercase.
  */
 
 int _isupper(int c)
