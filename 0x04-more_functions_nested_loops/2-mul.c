@@ -1,13 +1,16 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * _isupper- function thats multiplies 2 integers
- * @c: if statement
- * Return: return 1 if uppercase else 0
- */
-
+* mul - function that multiplies two integers
+* @a: First integer
+* @b: Second integer
+* Return: mul.
+*/
 int mul(int a, int b)
 {
-    int c = a*b;
-    return(c);
+	int x;
+
+	x = a * b;
+return (x);
 }
