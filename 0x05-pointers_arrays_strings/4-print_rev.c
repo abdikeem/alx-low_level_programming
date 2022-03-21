@@ -5,7 +5,7 @@
  * @s:  pointer to be printed
  */
 
-void print_rev(char *s);
+void print_rev(char *s)
 {
 int i;
 for (i = 0; s[i] != '\0'; ++i)
