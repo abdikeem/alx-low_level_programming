@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts - prints the charactor string
- * @str:  pointer to be printed
+ * print_rev - prints the charactor string
+ * @s:  pointer to be printed
  */
 
-void _puts(char *s)
+void print_rev(char *s);
 {
 int i;
 for (i = 0; s[i] != '\0'; ++i)
