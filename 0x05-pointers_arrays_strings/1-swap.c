@@ -3,7 +3,8 @@
 /**
  * swap_int - take in two variable integers and swaps them
  * @author Abdihakim Abdirahman
- * @n: puntero
+ * @a: swaps and stores address of b
+ * @b: swaps and stores address of a
  * Return: 0
  */
 
