@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - takes in pointer to an int and updates it to 98
  * @author Abdihakim Abdirahman
- * int *n - will reset our variable int x holding 98 
+ * @n: puntero
  * Return: 0
  */
 
