@@ -5,7 +5,7 @@
  * @dest: destination string
  * @src: source string
  * @n: No. of charactors to be appended
- *  
+ *
  * Return: dest
  */
 
