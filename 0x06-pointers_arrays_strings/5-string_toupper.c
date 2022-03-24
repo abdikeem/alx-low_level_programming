@@ -2,19 +2,20 @@
 
 /**
  * *string_toupper - changes lowercase to uppercase
- * @k: string
+ * @k: input string
  * Return: return k
  */
 
 char *string_toupper(char *k)
 {
-int i = 0;
+int i;
 
-while (k[i] != '\0')
+for (i = 0; i < k; i++)
 {
-if (k[i] >= 'a' && k[i] <= 'z')
-k[i] = k[i] - 32;
-i++; 
+    if (k[i] >= 'a' && k[i] <= 'z')
+    k[i] = k[i] - 32;
+    else if (k[i] >= 'A' && k[i] <= 'Z')
+    k[i] = k[i] + 32;
 }
 return (k);
 }
