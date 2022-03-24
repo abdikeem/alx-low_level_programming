@@ -13,11 +13,14 @@ int i , x, rev;
 
 for (i = 0; i < n - 1; i++)
 {
-for (x = i + 1; x > 0; x--)
+x = i + 1;
+while (x > 0)
 {
 rev = a[x];
 a[x] = a[x - 1];
 a[x - 1] = rev;
+i++;
+
 }
 }
 }
