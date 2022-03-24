@@ -15,9 +15,9 @@ for (i = 0; i < n - 1; i++)
 {
 for (x = i + 1; x > 0; x--)
 {
-rev = a[j];
-a[j]= a[x - 1];
-a[j - 1] = rev;
+rev = a[x];
+a[x] = a[x - 1];
+a[x - 1] = rev;
 }
 }
 }
