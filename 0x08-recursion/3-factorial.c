@@ -2,7 +2,7 @@
 
 /**
  * factorial - returns fuctorial of given number
- * @n: 
+ * @n: factorial number
  * Return: -1 if n is lower than 0
  */
 
