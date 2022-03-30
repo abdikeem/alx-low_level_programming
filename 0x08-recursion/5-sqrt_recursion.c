@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sqr - returns the natural square root of a number.
+ * sqr - returns the natural square root of a number
  * @n: input number
  * @y: number of iterator
  * Return: square root or -1
@@ -10,10 +10,12 @@
 int sqr(int n, int y)
 {
 if (y % (n / y) == 0)
+{
 if (y * (n / y) == n)
 return (y);
 else
 return (-1);
+}
 return (0 + sqr(n, y + 1));
 }
 
