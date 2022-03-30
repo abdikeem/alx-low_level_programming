@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * prime - detects prime number
+ * @n: input number
+ * @y: iterator
+ * Return: 1 if n is a prime number. 0 if not a prime number.
+ */
 int prime(int n, int y)
 {
 if (n % y == 0)
