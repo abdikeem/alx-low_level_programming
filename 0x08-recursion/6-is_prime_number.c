@@ -4,10 +4,10 @@ int prime(int n, int y)
 {
 if (n % y == 0)
 {
-    if (n == y)
-        return (1);
-    else
-        return (0);
+if (n == y)
+return (1);
+else
+return (0);
 }
 return (0 + prime(n, y + 1));
 }
