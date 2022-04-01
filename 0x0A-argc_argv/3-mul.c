@@ -5,12 +5,14 @@
  * main - Prints the program name
  * @argc: No. of arguments passed to the program
  * @argv: array of pointers to arguments
- * Return: 0 If the program receive two argument else return 1 and print error
+ * 
+ * Return: 0 if argc less than 2 else 1
  */
 
 int main(int argc, char *argv[])
 {
 int x, y, mult;
+
 if (argc < 2)
 {
 printf("error\n");
