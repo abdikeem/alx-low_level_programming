@@ -10,16 +10,15 @@
 
 int main(int argc, char *argv[])
 {
-int x, y, square;
-if (argc != 3)
+int x, y, mult;
+if (argc < 2)
 {
 printf("error\n");
 return (1);
 }
-else
 x = atoi(argv[1]);
 y = atoi(argv[2]);
-square = x * y;
-printf("%d\n", square);
+mult = x * y;
+printf("%d\n", mult);
 return (0);
 }
