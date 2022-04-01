@@ -6,7 +6,8 @@
  * @argc: No. of arguments passed to the program
  * @argv: array of pointers to arguments
  * 
- * Return: 0 if argc less than 2 else 1
+ * Return: If the program receives two arguments - 0.
+ *         If the program does not receive two arguments - 1.
  */
 
 int main(int argc, char *argv[])
@@ -18,9 +19,11 @@ if (argc < 2)
 printf("error\n");
 return (1);
 }
+
 x = atoi(argv[1]);
 y = atoi(argv[2]);
 mult = x * y;
+
 printf("%d\n", mult);
 return (0);
 }
