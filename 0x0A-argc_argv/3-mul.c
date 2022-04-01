@@ -11,19 +11,19 @@
 
 int main(int argc, char *argv[])
 {
-	int x, y, multiplication;
+int x, y, multiplication;
 
-	if (argc != 3)
-	{
-		printf("Error\n");
-		return (1);
-	}
+if (argc < 2)
+{
+printf("Error\n");
+return (1);
+}
 
-	x = atoi(argv[1]);
-	y = atoi(argv[2]);
-	multiplication = x * y;
+x = atoi(argv[1]);
+y = atoi(argv[2]);
+multiplication = x * y;
 
-	printf("%d\n", multiplication);
+printf("%d\n", multiplication);
 
-	return (0);
+return (0);
 }
