@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * _strdup - function returns a pointer to a new string which is a duplicate of the string str.
- * 
+ * _strdup - function returns a pointer to a new string.
+ *
  * @str: duplicated string.
  * Return: NULL if str = NULL else pointer to the duplicated string.
  */
@@ -18,6 +18,7 @@ return (NULL);
 }
 for (i = 0; str[i]; i++)
 {
+y++;
 ptr = malloc(sizeof(char) * (y + 1));
 }
 if (ptr == NULL)
