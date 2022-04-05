@@ -9,5 +9,25 @@
 
 char *_strdup(char *str)
 {
-
+char *ptr;
+int i, y = 0;
+ptr = malloc(sizeof(char));
+if (str == NULL)
+{
+return (NULL);
+}
+for (i = 0; str[i]; i++)
+{
+ptr * y++;
+}
+if (ptr == NULL)
+{
+return (NULL);
+}
+for (i = 0; str[i]; i++)
+{
+ptr[i] = str[i];
+}
+prt[y] = '\0';
+return (ptr);
 }
