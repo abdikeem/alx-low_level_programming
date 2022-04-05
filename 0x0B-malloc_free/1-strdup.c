@@ -19,8 +19,10 @@ return (NULL);
 for (i = 0; str[i]; i++)
 {
 y++;
-ptr = malloc(sizeof(char) * (y + 1));
 }
+
+ptr = malloc(sizeof(char) * (y + 1));
+
 if (ptr == NULL)
 {
 return (NULL);
