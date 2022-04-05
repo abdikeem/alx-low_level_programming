@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 
 /**
  * _strdup - function returns a pointer to a new string which is a duplicate of the string str.
@@ -27,6 +28,6 @@ for (i = 0; str[i]; i++)
 {
 ptr[i] = str[i];
 }
-prt[y] = '\0';
+ptr[y] = '\0';
 return (ptr);
 }
