@@ -1,5 +1,5 @@
-#ifndef OBJECT_LIKE_MICRO_H
-#define OBJECT_LIKE_MICRO_H
+#ifndef SIZE
+#define SIZE
 
 /**
  * file - 0-object_like_macro.c
