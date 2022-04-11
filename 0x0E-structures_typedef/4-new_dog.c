@@ -46,4 +46,3 @@ for (i = 0; i < ownerl; i++)
 dog->owner[i] = owner[i];
 return (dog);
 }
-
