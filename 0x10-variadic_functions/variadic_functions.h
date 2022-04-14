@@ -14,10 +14,10 @@ void print_all(const char * const format, ...);
  * @type: type
  * @x: function
  */
-typedef struct printTypex
+typedef struct printType
 {
 	char *type;
 	void (*x)(va_list);
-} printTypex;
+} printType;
 
 #endif /* VARIADIC_FUNCTIONS_H_ */
