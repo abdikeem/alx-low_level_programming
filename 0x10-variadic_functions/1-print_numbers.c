@@ -18,8 +18,12 @@ for (i = 0; i < n; i++)
 {
     num = va_arg(valuelist, int);
     printf("%d", num);
-    if (i < n - 1 && separator != NULL)
+    if (i < n - 1 && separator)
         printf("%s", separator);
+    else if(separator != NULL)
+    {
+        //nothing
+    }
 }
 printf("\n");
 va_end(valuelist);
