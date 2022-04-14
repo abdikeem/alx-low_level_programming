@@ -18,11 +18,11 @@ va_start(valuelist, n);
 for (i = 0; i < n; i++)
 {   
 	numbers = va_arg(valuelist, int);
-    printf("%d", numbers);
+    printf("%i", numbers);
 	if (i != n - 1 && separator != NULL)
 		printf("%s", separator);
 }
 va_end(valuelist);
 
-printf('\n');
+putchar('\n');
 }
