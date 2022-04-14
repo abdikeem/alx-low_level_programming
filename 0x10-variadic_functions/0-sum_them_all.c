@@ -8,9 +8,10 @@
 */
 int sum_them_all(const unsigned int n, ...)
 {
-va_list valuelist;
 unsigned int i;
 int sum = 0;
+
+va_list valuelist;
 
 if (n == 0)
 return (0);
