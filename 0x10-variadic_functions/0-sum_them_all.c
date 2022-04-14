@@ -19,11 +19,9 @@ return (0);
 
 va_start(valuelist, n);
 
-while (i < n)
-{
+for (; i < n; i++)
 add += va_arg(valuelist, int);
-i++;
-}
+
 va_end(valuelist);
 return (add);
 }
