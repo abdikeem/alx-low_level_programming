@@ -18,7 +18,7 @@ for (; i < n; i++)
 {
     num = va_arg(valuelist, int);
     printf("%d", num);
-    if (i != n - 1 && separator != NULL)
+    if (i < n - 1 && separator)
         printf("%s", separator);
 }
 printf("\n");
