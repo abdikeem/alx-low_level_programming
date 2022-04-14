@@ -3,10 +3,8 @@
 /**
  * print_numbers - prints all numbers with separation.
  * 
- * @separator: number separator.
- * @n: number of parameters.
- * 
- * Return: nothing.
+ * @separator: string to be printed between numbers.
+ * @n: number of integers passed to the function.
  */
 
 void print_numbers(const char *separator, const unsigned int n, ...)
