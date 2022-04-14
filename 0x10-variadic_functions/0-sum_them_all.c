@@ -2,9 +2,9 @@
 
 /**
  * sum_them_all - sum of all param
- * @n:  number of param
+ * @n: number of param
  * 
- * @return sum 
+ * @return sum
  */
 
 int sum_them_all(const unsigned int n, ...)
@@ -15,13 +15,11 @@ unsigned int i = 0;
 va_list valuelist;
 
 va_start(valuelist, n);
-
 while (i < n)
 {
 sum += va_arg(valuelist, int);
 i++;
 }
-
 va_end(valuelist);
 return (sum);
 }
