@@ -9,4 +9,15 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
-#endif
+/**
+ * struct print - print type with corresponding print function
+ * @type: type
+ * @x: function
+ */
+typedef struct printTypex
+{
+	char *type;
+	void (*x)(va_list);
+} printTypex;
+
+#endif /* VARIADIC_FUNCTIONS_H_ */
