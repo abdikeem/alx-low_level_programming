@@ -19,7 +19,9 @@ for (; i < n; i++)
 {
 printf("%i", va_arg(list, int));
 if (i != n - 1 && separator != NULL)
+{
 printf("%s", separator);
+}
 }
 
 va_end(list);
