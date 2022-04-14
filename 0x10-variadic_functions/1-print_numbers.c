@@ -19,7 +19,7 @@ va_start(valuelist, n);
 for (; i < n; i++)
 {
     number = va_arg(valuelist, int);
-    printf("%d", number);
+    printf("%i", number);
     if (i < n - 1 && separator)
         printf("%s", separator);
 }
