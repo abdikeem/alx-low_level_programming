@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_numbers - prints all numbers with separation.
+ * print_numbers - prints all numbers with a separator.
  * 
  * @separator: string to be printed between numbers.
  * @n: number of integers passed to the function.
@@ -18,7 +18,7 @@ va_start(valuelist, n);
 for (i = 0; i < n; i++)
 {   
 	numbers = va_arg(valuelist, int);
-    printf("%i", numbers);
+    printf("%d", numbers);
 	if (i != n - 1 && separator != NULL)
 		printf("%s", separator);
 }
