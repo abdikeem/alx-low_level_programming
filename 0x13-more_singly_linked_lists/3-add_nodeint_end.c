@@ -33,11 +33,11 @@ new_node->n = n;
 new_node->next = NULL;
 
 if (tail)
-																	tail->next = new_node;
+tail->next = new_node;
 
 if (*head == NULL)
-																	*head = new_node;
-																	}
+*head = new_node;
+}
 
 return (new_node);
 

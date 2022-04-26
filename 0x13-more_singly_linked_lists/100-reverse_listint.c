@@ -20,10 +20,10 @@ if (head && *head)
 while (((*head)->next) != NULL)
 
 {
-										next = (*head)->next;
-										(*head)->next = prev;
-										prev = *head;
-										*head = next;
+next = (*head)->next;
+(*head)->next = prev;
+prev = *head;
+*head = next;
 
 }
 
