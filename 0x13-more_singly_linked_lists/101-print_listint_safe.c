@@ -26,17 +26,20 @@ count = 0;
 while (current != NULL)
 
 {
-										count++;
-										diff = current - current->next;
-										printf("[%p] %i\n", (void *)current, current->n);
-										if (diff > 0)	
-										{																				current = current->next;
-																				}
-										else
-										{																				printf("-> [%p] %i\n", (void *)current->next, current->next->n);
-																				break;
+count++;
+diff = current - current->next;
+printf("[%p] %i\n", (void *)current, current->n);
+if (diff > 0)	
+{																			
+current = current->next;
+}
+else
+{																				
+printf("-> [%p] %i\n", (void *)current->next, current->next->n);
+break;
 
-}																				}
+}																			
+}
 
 return (count);
 
