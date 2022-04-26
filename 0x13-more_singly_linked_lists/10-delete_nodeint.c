@@ -1,46 +1,63 @@
 #include "lists.h"
-#include <stdio.h>
+
 /**
- * delete_nodeint_at_index - function with two arguments
- * @head: pointer to head pointer of first node in a linked list
- * @index: element index in a linked list
- *
- * Description: deletes the node at index of a linked list
- * Return: 1 if succeeded or -1 if fail
+ * len - print all the elements of a listint_t list.
+ * @h: pointer to strcutur listint_t
+ * Return: the numbers of nodes
  */
+
+unsigned int len(listint_t *h)
+{
+unsigned int index = 0;
+
+if (h == '\0')
+return (0);
+
+while (h)
+{
+h = h->next;
+index++;
+}
+return (index);
+}
+
+/**
+ * delete_nodeint_at_index - delete a  node in an index the listint_t.
+ * @head: pointer  to the strucure.
+ * @index: index of listint_t list.
+ * Return: 1 success, -1 fail.
+ */
+
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
-	listint_t *cursor, *c_next;
-	unsigned int count = 0;
+unsigned int len_n;
 
-	cursor = *head;
+len_n = len(*head);
+if (head && *head && index <= len_n)
+{
+listint_t *siguiente;
+listint_t *anterior;
 
-	if (head == NULL || *head == NULL)
-		return (-1);
+if (index == 0)
+{
+siguiente = *head;
+*head = (*head)->next;
+}
+else
+{
+unsigned int i = 0;
 
-	if (index == 0)
-	{
-		*head = cursor->next;
-		free(cursor);
-		return (1);
-	}
-	if (index == 1)
-	{
-		cursor = (*head)->next;
-		(*head)->next = cursor->next;
-		free(cursor);
-		return (1);
-	}
-	while (count < index - 1)
-	{
-		if (cursor->next == NULL)
-			return (-1);
-		count++;
-		cursor = cursor->next;
-		c_next = cursor->next;
-	}
-	cursor->next = c_next->next;
-	free(c_next);
-
-	return (1);
+siguiente = *head;
+while (i++ < index && (siguiente->next))
+{
+anterior  = siguiente;
+siguiente = siguiente->next;
+}
+anterior->next = siguiente->next;
+}
+free(siguiente);
+return (1);
+}
+else
+return (-1);
 }
