@@ -1,49 +1,41 @@
 #include "lists.h"
+
 /**
- * insert_nodeint_at_index - inserts a new node at a given position
- * @head: double pointer to the head of the listint list
- * @idx: is the index of the list where the new node should be added
- * @n: is the data
- * Return: Null if it failed or the address of the new node
+ * insert_nodeint_at_index - inserts a new node at a given position.
+ * @head: the pointer to the starting node of the listint_t list
+ * @idx: the position where the new node is to be inserted
+ * @n: the data to be stored in the new node
+ *
+ * Return: the address of the new node, or NULL if it failed
  */
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
-	listint_t *headaux;
-	listint_t *newnode;
-	unsigned int size;
+	listint_t *new, *temp = *head;
+	unsigned int i = 0;
 
-	size = 0;
-	/* allocate memory for the newnode */
-	newnode = malloc(sizeof(listint_t));
-	/* task condition */
-	if (newnode == NULL)
+	new = malloc(sizeof(listint_t));
+	if (!new)
 		return (NULL);
-	/* n keeps being the data of the new node */
-	newnode->n = n;
-	/*  given the case, if index is cero then newnode is equal to head */
-	/* and return newnode in head of the list */
-	if (idx == 0)
+
+	new->n = n;
+
+	if (!idx)
 	{
-		newnode->next = *head;
-		*head = newnode;
-		return (newnode);
+		new->next = temp;
+		*head = new;
+		return (new);
 	}
-	/* usea de auxiliar */
-	headaux = *head;
-	/* if index is different to the position */
-	/* counter size keeps running and headaux moves to the next node */
-	while (headaux != NULL && size != idx - 1)
+
+	while (i++ < (idx - 1))
 	{
-		size++;
-		headaux = headaux->next;
+		if (!temp || !(temp->next))
+			return (NULL);
+
+		temp = temp->next;
 	}
-	/* if index and size are equal and non NULL */
-	if (size == idx - 1 && headaux != NULL)
-	{
-		newnode->next = headaux->next;
-		headaux->next = newnode;
-		return (newnode);
-	}
-	free(newnode);
-	return (NULL);
+
+	new->next = temp->next;
+	temp->next = new;
+
+	return (new);
 }

@@ -1,37 +1,35 @@
 #include "lists.h"
+
 /**
- * add_nodeint_end - adds a new node at the end of a listint_t list
- * @head: double pointer to listint_t
- * @n: number of elements in listint_t
- * Return: a poitner to the new node or NULL if it failed
+ * add_nodeint_end - adds a new node at the end of a listint_t list.
+ * @head: a double pointer to the starting node of the linked list
+ * @n: the data to be stored in the new element
+ *
+ * Return: a pointer to the newly created node
  */
 listint_t *add_nodeint_end(listint_t **head, const int n)
 {
-	listint_t *newnode_end;
-	listint_t *firstnode;
+	listint_t *new_node, *current;
 
-	newnode_end = malloc(sizeof(listint_t));
-	if (newnode_end)
+	new_node = malloc(sizeof(listint_t));
+	if (!new_node)
+		return (NULL);
+	new_node->n = n;
+	new_node->next = NULL;
+
+	if (*head)
 	{
-		/* the new node equal to NULL */
-		/* so I know is the new end of the linked list */
-		newnode_end->next = NULL;
-		/* the lenght is n anyway */
-		newnode_end->n = n;
-		if (!*head)
-		{
-			*head = newnode_end;
-			return (newnode_end);
-		}
-		/* use the aux variable first node */
-		/* to go through the linked list */
-		firstnode = *head;
-		while (firstnode->next)
-			firstnode = firstnode->next;
-		firstnode->next = newnode_end;
-		return (newnode_end);
+		current = *head;
+		while (current->next)
+			current = current->next;
+
+		current->next = new_node;
 	}
-	/* freed memory if it faile and return NULL */
-	free(newnode_end);
-	return (NULL);
+	else
+	{
+		*head = new_node;
+		return (*head);
+	}
+
+	return (current);
 }
