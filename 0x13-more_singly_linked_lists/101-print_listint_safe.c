@@ -1,46 +1,69 @@
 #include "lists.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 /**
- * print_listint_safe - function that prints a listint_t linked list
- * @head: pointer to the structlistint_t
- * Return: size_t, number of nodes in the linked list
+ * free_listp - frees a linked list
+ * @head: head of a list.
+ *
+ * Return: no return.
  */
+void free_listp(listp_t **head)
+{
+	listp_t *temp;
+	listp_t *curr;
 
+	if (head != NULL)
+	{
+		curr = *head;
+		while ((temp = curr) != NULL)
+		{
+			curr = curr->next;
+			free(temp);
+		}
+		*head = NULL;
+	}
+}
+
+/**
+ * print_listint_safe - prints a linked list.
+ * @head: head of a list.
+ *
+ * Return: number of nodes in the list.
+ */
 size_t print_listint_safe(const listint_t *head)
-
 {
+	size_t nnodes = 0;
+	listp_t *hptr, *new, *add;
 
-int diff = 0;
+	hptr = NULL;
+	while (head != NULL)
+	{
+		new = malloc(sizeof(listp_t));
 
-size_t count;
+		if (new == NULL)
+			exit(98);
 
-const listint_t *current;
+		new->p = (void *)head;
+		new->next = hptr;
+		hptr = new;
 
-current = head;
+		add = hptr;
 
-count = 0;
+		while (add->next != NULL)
+		{
+			add = add->next;
+			if (head == add->p)
+			{
+				printf("-> [%p] %d\n", (void *)head, head->n);
+				free_listp(&hptr);
+				return (nnodes);
+			}
+		}
 
-while (current != NULL)
+		printf("[%p] %d\n", (void *)head, head->n);
+		head = head->next;
+		nnodes++;
+	}
 
-{
-count++;
-diff = current - current->next;
-printf("[%p] %i\n", (void *)current, current->n);
-if (diff > 0)	
-{																			
-current = current->next;
-}
-else
-{																				
-printf("-> [%p] %i\n", (void *)current->next, current->next->n);
-break;
-
-}																			
-}
-
-return (count);
-
+	free_listp(&hptr);
+	return (nnodes);
 }
