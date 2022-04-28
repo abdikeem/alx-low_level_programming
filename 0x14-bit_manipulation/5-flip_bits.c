@@ -59,14 +59,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/main.h at main · Hamicch/alx-low_level_programming · GitHub</title>
+  <title>alx-low_level_programming/5-flip_bits.c at main · Hamicch/alx-low_level_programming · GitHub</title>
     <meta name="description" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/63c227e2c93b1054e812ba9e1a316e5299f5da9cd098340e0ed96f7ff70d3d9a/Hamicch/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/main.h at main · Hamicch/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/63c227e2c93b1054e812ba9e1a316e5299f5da9cd098340e0ed96f7ff70d3d9a/Hamicch/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/main.h at main · Hamicch/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Hamicch/alx-low_level_programming" /><meta property="og:description" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/63c227e2c93b1054e812ba9e1a316e5299f5da9cd098340e0ed96f7ff70d3d9a/Hamicch/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/5-flip_bits.c at main · Hamicch/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/63c227e2c93b1054e812ba9e1a316e5299f5da9cd098340e0ed96f7ff70d3d9a/Hamicch/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/5-flip_bits.c at main · Hamicch/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Hamicch/alx-low_level_programming" /><meta property="og:description" content="Contribute to Hamicch/alx-low_level_programming development by creating an account on GitHub." />
     
 
 
@@ -77,7 +77,7 @@
   
 
 
-  <meta name="request-id" content="B2AA:29C4:46824:7EB5A:626AE832" data-pjax-transient="true"/><meta name="html-safe-nonce" content="7be79542dadb8f4e38c5308814aada4915a430516e400e7b0f442e98ae4bf661" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMkFBOjI5QzQ6NDY4MjQ6N0VCNUE6NjI2QUU4MzIiLCJ2aXNpdG9yX2lkIjoiNzY2ODMxMDcxMDE2MDEyMzk1NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="fe98e54ea33c84b4363b9526bb0af5014df2590699d552239fcbf56f61938a76" data-pjax-transient="true"/>
+  <meta name="request-id" content="B2A8:17D5:386F3:6A6C5:626AE822" data-pjax-transient="true"/><meta name="html-safe-nonce" content="87d7f3d20694a259678962728f43789aa5280f2a394947fefca73eec41c9c601" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMkE4OjE3RDU6Mzg2RjM6NkE2QzU6NjI2QUU4MjIiLCJ2aXNpdG9yX2lkIjoiNDg2MTY2MDQzMTAzNTA2NjQwMiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="b2f01680d2bcea4ff19a47ee785bcb001f0814cfe6df050afc044f12c9ad2a31" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:377947786" data-pjax-transient>
 
@@ -129,7 +129,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -180,7 +180,7 @@
       <div class="d-flex flex-items-center">
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
               class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c3e78feeb2101aa66be75f47bb560a60c996fcda03add64647a3320108970c7"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47e209bfb3bd9b03b019179375ee046ad60000b7175c235818aaae2f752cd317"
             >
               Sign&nbsp;up
             </a>
@@ -211,58 +211,58 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Features;&quot;}" href="/features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Features;&quot;}" href="/features">
       Features
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Mobile;&quot;}" href="/mobile">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Mobile;&quot;}" href="/mobile">
       Mobile
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Actions;&quot;}" href="/features/actions">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Actions;&quot;}" href="/features/actions">
       Actions
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       Codespaces
 </a>  </li>
 
             
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Packages;&quot;}" href="/features/packages">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Packages;&quot;}" href="/features/packages">
       Packages
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Security;&quot;}" href="/features/security">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Security;&quot;}" href="/features/security">
       Security
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Code review;&quot;}" href="/features/code-review">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Code review;&quot;}" href="/features/code-review">
       Code review
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Issues;&quot;}" href="/features/issues">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Issues;&quot;}" href="/features/issues">
       Issues
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Integrations;&quot;}" href="/features/integrations">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Integrations;&quot;}" href="/features/integrations">
       Integrations
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       GitHub Sponsors
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Customer stories;&quot;}" href="/customer-stories">
       Customer stories
 </a>  </li>
 
@@ -273,11 +273,11 @@
 
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Team;&quot;}" href="/team">Team</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Team;&quot;}" href="/team">Team</a>
 </li>
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
 </li>
 
 
@@ -290,61 +290,61 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Explore GitHub;&quot;}" href="/explore">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Explore GitHub;&quot;}" href="/explore">
       Explore GitHub
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Topics;&quot;}" href="/topics">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Collections;&quot;}" href="/collections">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Trending;&quot;}" href="/trending">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
       Learning Lab
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
       Open source guides
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:The ReadME Project;&quot;}" href="/readme">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:The ReadME Project;&quot;}" href="/readme">
       The ReadME Project
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Events;&quot;}" href="/events">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Events;&quot;}" href="/events">
       Events
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Community forum;&quot;}" href="https://github.community">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Community forum;&quot;}" href="https://github.community">
       Community forum
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
       GitHub Education
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
       GitHub Stars program
 </a>  </li>
 
@@ -355,7 +355,7 @@
 
 
             <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
 </li>
 
 
@@ -368,22 +368,22 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Plans;&quot;}" href="/pricing">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Plans;&quot;}" href="/pricing">
       Plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
       Compare plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
       Contact Sales
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h;ref_cta:Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education
 </a>  </li>
 
@@ -425,7 +425,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="sJEi6BVP4aKU9hmdJFLiBKDbrqjCwSOgkQqwES0/dcGj3g5mxrDoDv1OlBL507/BDrvTiT5828PvoYbEFchWKQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="wiumxlEXZ43j96m7qkTv2IOs/a4ys6VrJWqcmfiDQ+10Lg7P6XMGfuW/j2uTTZx6qRv9st77H44b0yqG10XAIQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -605,9 +605,9 @@
           </div>
 
         <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2Fmain.h"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2F5-flip_bits.c"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="74a7fa7fddec3d5bc761b549765570c653f7b880f7957fcba6ba6ef5d71e43c6"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="374615eadccd3786ff17546790b7ef2d6aa0d004778e02e355e8c4722a4eaa2d"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -615,7 +615,7 @@
 
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Hamicch%2Falx-low_level_programming"
             class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="74a7fa7fddec3d5bc761b549765570c653f7b880f7957fcba6ba6ef5d71e43c6"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="374615eadccd3786ff17546790b7ef2d6aa0d004778e02e355e8c4722a4eaa2d"
             data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
           >
             Sign up
@@ -707,7 +707,7 @@
     
 
   <li>
-      <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2ed90683b7f92681997a5e35001b406ecca81bd187b2385a779f8dff83614a99" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+      <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ef40c6b0344575fc67cea54cb618ffa57f5d90e3cdfdb65d3d144c7093ec7f0d" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
   
@@ -715,7 +715,7 @@
   </li>
 
   <li>
-        <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:377947786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0f0fc6dee8e89c84acb4782143a2a097cf305d1cfded2df967147be4b78343ca" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:377947786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba590f0f8ac3b6dd7870f67c425e9ad4e32ef0fee696943acb9aa0cacbdbee07" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" title="10" data-view-component="true" class="Counter">10</span>
@@ -725,7 +725,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-      <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:377947786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="701efd0a7d96d78070ed2a5f1fc272a051cde962847a719c75c95ddee18b01f7" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+      <a href="/login?return_to=%2FHamicch%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:377947786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2c0c8bda0c1b8ca03810efc9e3f3b730dd0dddb8f845831ea6d461b280034f4f" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -917,7 +917,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Hamicch/alx-low_level_programming/blob/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/main.h">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Hamicch/alx-low_level_programming/blob/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/5-flip_bits.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1001,7 +1001,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Hamicch/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Hamicch/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/5-flip_bits.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1041,7 +1041,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Hamicch/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Hamicch/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/5-flip_bits.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1072,7 +1072,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Hamicch/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Hamicch/alx-low_level_programming/tree/main/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">main.h</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Hamicch/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Hamicch/alx-low_level_programming/tree/main/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">5-flip_bits.c</strong>
   </h2>
   <a href="/Hamicch/alx-low_level_programming/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -1085,7 +1085,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:377947786,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4a6b7119d3104d3d6ebd2e08cb428fa28dea45318e76b2cad4db8f2b06963e06" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Hamicch/alx-low_level_programming/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:377947786,&quot;originating_url&quot;:&quot;https://github.com/Hamicch/alx-low_level_programming/blob/main/0x14-bit_manipulation/5-flip_bits.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0cef5874c9d52191bac3d0f990fa8b3eca502ee49b04ca8e8fa4b6430d8b2177" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Hamicch/alx-low_level_programming/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1098,13 +1098,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x14-bit_manipulation/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x14-bit_manipulation/5-flip_bits.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Hamicch/alx-low_level_programming/blob/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Hamicch/alx-low_level_programming/blob/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/5-flip_bits.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1163,7 +1163,7 @@
             <span itemprop="dateModified"><relative-time datetime="2021-08-05T17:53:26Z" class="no-wrap">Aug 5, 2021</relative-time></span>
           </span>
 
-          <a data-pjax href="/Hamicch/alx-low_level_programming/commits/main/0x14-bit_manipulation/main.h" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/Hamicch/alx-low_level_programming/commits/main/0x14-bit_manipulation/5-flip_bits.c" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -1189,7 +1189,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/Hamicch/alx-low_level_programming/contributors-list/main/0x14-bit_manipulation/main.h" preload>
+        src="/Hamicch/alx-low_level_programming/contributors-list/main/0x14-bit_manipulation/5-flip_bits.c" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1228,18 +1228,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      16 lines (13 sloc)
+      22 lines (21 sloc)
       <span class="file-info-divider"></span>
-    501 Bytes
+    447 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Hamicch/alx-low_level_programming/raw/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/main.h" href="/Hamicch/alx-low_level_programming/raw/main/0x14-bit_manipulation/main.h" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/Hamicch/alx-low_level_programming/raw/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/5-flip_bits.c" href="/Hamicch/alx-low_level_programming/raw/main/0x14-bit_manipulation/5-flip_bits.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/Hamicch/alx-low_level_programming/blame/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/main.h" href="/Hamicch/alx-low_level_programming/blame/main/0x14-bit_manipulation/main.h" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/Hamicch/alx-low_level_programming/blame/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/5-flip_bits.c" href="/Hamicch/alx-low_level_programming/blame/main/0x14-bit_manipulation/5-flip_bits.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -1255,13 +1255,13 @@
           </a>
 
         
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2Fmain.h" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2F5-flip_bits.c" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2Fmain.h" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FHamicch%2Falx-low_level_programming%2Fblob%2Fmain%2F0x14-bit_manipulation%2F5-flip_bits.c" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1288,14 +1288,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Hamicch/alx-low_level_programming/raw/main/0x14-bit_manipulation/main.h">
+            <a class="dropdown-item" href="/Hamicch/alx-low_level_programming/raw/main/0x14-bit_manipulation/5-flip_bits.c">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/Hamicch/alx-low_level_programming/blame/main/0x14-bit_manipulation/main.h">
+              <a class="dropdown-item" href="/Hamicch/alx-low_level_programming/blame/main/0x14-bit_manipulation/5-flip_bits.c">
                 View blame
               </a>
             </li>
@@ -1336,73 +1336,95 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x14-bit_manipulation/main.h">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x14-bit_manipulation/5-flip_bits.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">ifndef</span> BIT_MANIPULATION_H_</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">BIT_MANIPULATION_H_</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * flip_bits - count the bit to change to another value</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>unistd.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @n: the number</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @m: the number to compare</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Description: compare to ints a count the diferences in bits</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_putchar</span>(<span class="pl-k">char</span>);</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * section header: the header of this function is holberton.h</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">unsigned</span> <span class="pl-k">int</span> <span class="pl-en">binary_to_uint</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *b);</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: the number of different bits</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_binary</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> n);</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">get_bit</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> n, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> index);</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">unsigned</span> <span class="pl-k">int</span> <span class="pl-en">flip_bits</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> n, <span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> m)</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">set_bit</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> *n, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> index);</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">clear_bit</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> *n, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> index);</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> i;</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">unsigned</span> <span class="pl-k">int</span> <span class="pl-en">flip_bits</span>(<span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> n, <span class="pl-k">unsigned</span> <span class="pl-k">long</span> <span class="pl-k">int</span> m);</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">get_endianness</span>(<span class="pl-k">void</span>);</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	i = <span class="pl-c1">0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	n = n ^ m;</td>
+        </tr>
+        <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">endif</span> <span class="pl-c"><span class="pl-c">/*</span> #ifndef BIT_MANIPULATION_H_ <span class="pl-c">*/</span></span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (n)</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">		i += n &amp; <span class="pl-c1">1</span>;</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">		n &gt;&gt;= <span class="pl-c1">1</span>;</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (i);</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -1428,7 +1450,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Hamicch/alx-low_level_programming/blame/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/main.h">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Hamicch/alx-low_level_programming/blame/8d7ff7bfe541a73fb290d89ba5b2c6ca833ca80f/0x14-bit_manipulation/5-flip_bits.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Hamicch/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
